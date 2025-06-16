@@ -52,7 +52,7 @@ Wrote advanced SQL queries to uncover trends and generate KPIs for business repo
 
 - 📧 **Email**: mamidilohithareddy@gmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/your-link](www.linkedin.com/in/lohitha-reddy-5b9738169)  
-- 📄 **Resume**: [Download Resume (PDF)]()
+- 📄 **Resume**: [Download Resume (PDF)](https://github.com/LohithaReddy-0/lohitha-portfolio/blob/main/Lohitha_data_analyst_resume.docx)
 
 ---
 
